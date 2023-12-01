@@ -1,0 +1,1 @@
+# discord.py_qiita_point_program
